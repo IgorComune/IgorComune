@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @IgorComune
-- 👀 Interested in Data Science
-- 🌱 Currently learning Machine Learning
-- 📫 Instagram/Facebook: Igor Comune.
+- Hi, I’m @IgorComune
+- Interested in Data Science
+- Currently learning Machine Learning
+- Instagram/Facebook: Igor Comune.
+- My Medium: https://igorcomune.medium.com/
 
 <!---
 IgorComune/IgorComune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
