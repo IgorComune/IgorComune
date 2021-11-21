@@ -26,27 +26,29 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-
-# Data Science
-<br>
+## Data Science
 
 <img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
-<br>
+## Business Intelligence
 
-# Business Intelligence
-
-<br>
 - Power BI
 - Google Data Studio
 
-<br>
 
-# Hobbies
+## Hobbies
 - Boxing
 - Gym Workout
 
-<br>
+### Contact me:
+
+<div>
+
+<a href="https://www.instagram.com/igorcomune/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:igor.comune93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/igor-comune/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <!---
 IgorComune/IgorComune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
