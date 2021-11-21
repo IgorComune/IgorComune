@@ -33,12 +33,15 @@ me.say_hi()
 
 
 ## Business Intelligence
+<img height="128" width="128" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png?raw=true" /><img height="128" width="128" src="https://avatars.githubusercontent.com/u/36164477?s=200&v=4" />
 
 - Power BI
 - Google Data Studio
 
 
 ## Hobbies
+<img height="128" width="128" src="https://cdn-icons-png.flaticon.com/512/140/140394.png" /><img height="128" width="128" src="https://freesvg.org/img/15-Hotel-Icon-Has-Gym.png" />
+
 - Boxing
 - Gym Workout
 
@@ -50,6 +53,12 @@ me.say_hi()
 <a href = "mailto:igor.comune93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/igor-comune/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+# Recent posts in my Medium's
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@igorcomune/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@igorcomune/0" alt="Recent Article on medium 1"></img></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@igorcomune/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@igorcomune/1" alt="Recent Article on medium 2"></img></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@igorcomune/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@igorcomune/2" alt="Recent Article on medium 3"></img></a>
 
 <!---
 IgorComune/IgorComune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
