@@ -26,27 +26,26 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<div>
+
 # Data Science
-</div>
 <br>
-<div>
+
 <img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-</div>
+
 <br>
-<div>
+
 # Business Intelligence
-</div>
+
 <br>
 - Power BI
 - Google Data Studio
-</div>
+
 <br>
-<div>
+
 # Hobbies
 - Boxing
 - Gym Workout
-</div>
+
 <br>
 <!---
 IgorComune/IgorComune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
