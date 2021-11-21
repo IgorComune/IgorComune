@@ -13,8 +13,9 @@ class Data_Scientist:
         self.social_networks = "Igor Comune"
         self.role = "Data Scientist"
         self.portfolio = "https://igorcomune.medium.com/"
+        self.email = "igor.comune93@gmail.com"
         self.language_spoken = ["pt-BR", "en_US", "it-IT"]
-        self.interest = "Machine Learning"
+        self.interest = ["Data Analysis", "Machine Learning"]
         self.location = "Brazil"
 
     def say_hi(self):
@@ -25,24 +26,26 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+<div>
+# Data Science
+</div>
 
-# Data Science 
+<div>
+<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+</div>
 
-<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-
+<div>
 # Business Intelligence
-
+</div>
 - Power BI
 - Google Data Studio
+</div>
 
+<div>
 # Hobbies
 - Boxing
 - Gym Workout
-
+</div>
 
 <!---
 IgorComune/IgorComune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
