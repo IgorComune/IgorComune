@@ -25,21 +25,35 @@ me = Data_Scientist()
 me.say_hi()
 ```
 
-## Hard Skills
-### Data Science
+# Hard Skills
+## Operational Systems
 
-<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" />
 
-- Python, Pandas, NumPy, Azure, MySQL, GIT and GitHub
+- Windows and Linux
+
+## Data Science
+
+<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+
+<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
+
+<img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" />
 
 
 
-### Business Intelligence
+
+
+- Python, Pandas, NumPy, Azure, MySQL, GIT, GitHub, Microsoft Excel, Google Sheets, SKlearn, Keras and Open CV
+
+
+
+## Business Intelligence
 <img height="128" width="128" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png?raw=true" /><img height="128" width="128" src="https://avatars.githubusercontent.com/u/36164477?s=200&v=4" />
 
 - Power BI, Google Data Studio
 
-## Soft Skills
+# Soft Skills
 - Leadership
 - Communication
 - Personal Branding
