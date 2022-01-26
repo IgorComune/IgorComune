@@ -54,9 +54,9 @@ me.say_hi()
 
 
 ## Business Intelligence
-<img height="128" width="128" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png?raw=true" /><img height="128" width="128" src="https://avatars.githubusercontent.com/u/36164477?s=200&v=4" />
+<img height="128" width="128" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png?raw=true" /><img height="128" width="128" src="https://avatars.githubusercontent.com/u/36164477?s=200&v=4" /><img height="128" width="128" src="https://img.ibxk.com.br/2019/08/12/12154604838117.jpg" />
 
-- Power BI, Google Data Studio
+- Power BI, Google Data Studio and Tableau
 
 # Soft Skills
 - Leadership
