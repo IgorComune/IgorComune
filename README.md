@@ -28,9 +28,14 @@ me.say_hi()
 # Hard Skills
 ## Operational Systems
 
-<img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" />
+<img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2012_%28dark_blue%29.svg" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" />
 
 - Windows and Linux
+
+## Programming Languages
+<img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
+
+- Python and C++
 
 ## Data Science
 
