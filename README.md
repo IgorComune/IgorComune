@@ -45,11 +45,15 @@ me.say_hi()
 
 <img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" /><img height="128" width="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" />
 
+<img height="128" width="128" src="https://bigdata-madesimple.com/wp-content/uploads/2019/03/PySpark.jpg" />
 
 
 
 
-- Python, Pandas, NumPy, Azure, MySQL, GIT, GitHub, Microsoft Excel, Google Sheets, SKlearn, Keras and Open CV
+
+
+
+- Python, Pandas, NumPy, Azure, MySQL, GIT, GitHub, Microsoft Excel, Google Sheets, SKlearn, Keras, Open CV and PySpark
 
 
 
