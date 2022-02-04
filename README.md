@@ -1,4 +1,4 @@
-# @IgorComune - Data Scientist Student - 
+# @IgorComune - Data Scientist | Businness Intelligence Analyst (BI) 
 ## Portfolio: https://igorcomune.medium.com/
 
 ```python
