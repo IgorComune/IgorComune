@@ -48,12 +48,13 @@ me.say_hi()
 <img height="128" width="128" src="https://bigdata-madesimple.com/wp-content/uploads/2019/03/PySpark.jpg" />
 
 
-
-
-
-
-
 - Python, Pandas, NumPy, Azure, MySQL, GIT, GitHub, Microsoft Excel, Google Sheets, SKlearn, Keras, Open CV and PySpark
+
+
+## Cloud
+<img height="128" width="128" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" /><img height="128" width="128" src="https://logosmarcas.net/wp-content/uploads/2021/05/Azure-Logo-2021-presente.jpg" /><img height="128" width="128" src="https://static.wikia.nocookie.net/logopedia/images/f/f4/GCloud_-_%281%29.svg/revision/latest/scale-to-width-down/512?cb=20190828135105" />
+
+- Amazon AWS, Microsoft Azure and Google CLoud
 
 
 
