@@ -1,5 +1,6 @@
-# @IgorComune - Data Scientist | Businness Intelligence Analyst (BI) 
+# @IgorComune - Data/BI Analyst | Data Scientist
 ## Portfolio: https://igorcomune.medium.com/
+## LinkedIn: https://www.linkedin.com/in/igor-comune/
 
 ```python
 #!/usr/bin/python
