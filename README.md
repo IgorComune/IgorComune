@@ -15,7 +15,7 @@ class Data_Scientist:
         self.portfolio = "https://igorcomune.medium.com/"
         self.email = "igor.comune93@gmail.com"
         self.language_spoken = ["pt-BR", "en_US", "it-IT"]
-        self.interest = ["Data Analysis", "Machine Learning"]
+        self.interest = ["Business Intelligence", "Data Analysis", "Machine Learning"]
         self.location = "Brazil"
 
     def say_hi(self):
