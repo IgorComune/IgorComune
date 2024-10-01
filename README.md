@@ -16,7 +16,7 @@ class Data_Scientist:
         self.email = "igor.comune93@gmail.com"
         self.language_spoken = ["pt-BR", "en_US", "it-IT"]
         self.interest = ["Business Intelligence", "Data Analysis", "Machine Learning"]
-        self.location = "Brazil"
+        self.location = "Italy"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
