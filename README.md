@@ -9,9 +9,11 @@ class ProfileModel:
         self.role = "Data Scientist"
         self.languages = ["pt-BR", "en-US", "it-IT"]
         self.skills = [
-            "Machine Learning Engineer",
-            "Data Scientist",
-            "Data Engineer"
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI"
         ]
         self.experience = 0
 
