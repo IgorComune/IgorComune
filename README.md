@@ -30,7 +30,7 @@ class ProfileModel:
 
 
 me = ProfileModel()
-me.fit(["BI Dashboard", "ML Lead Scoring", "EDA Analysis"])
+me.fit(["ETL", "AI Agents", "ML Deployment"])
 me.summary()
 
 ```
