@@ -3,27 +3,34 @@
 ## LinkedIn: https://www.linkedin.com/in/igor-comune/
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Data_Scientist:
-
+class ProfileModel:
     def __init__(self):
         self.name = "Igor Comune"
-        self.social_networks = "Igor Comune"
         self.role = "Data Scientist"
-        self.portfolio = "https://igorcomune.medium.com/"
-        self.email = "igor.comune93@gmail.com"
-        self.language_spoken = ["pt-BR", "en_US", "it-IT"]
-        self.interest = ["Business Intelligence", "Data Analysis", "Machine Learning"]
-        self.location = "Italy"
+        self.languages = ["pt-BR", "en-US", "it-IT"]
+        self.skills = [
+            "Machine Learning Engineer",
+            "Data Scientist",
+            "Data Engineer"
+        ]
+        self.experience = 0
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def fit(self, projects):
+        """projects: list of completed projects"""
+        self.experience += len(projects)
+        return self
+
+    def summary(self):
+        print(f"Model: {self.name}")
+        print(f"Role: {self.role}")
+        print(f"Skills: {', '.join(self.skills)}")
+        print(f"Trained on {self.experience} projects")
 
 
-me = Data_Scientist()
-me.say_hi()
+me = ProfileModel()
+me.fit(["BI Dashboard", "ML Lead Scoring", "EDA Analysis"])
+me.summary()
+
 ```
 
 # Hard Skills
