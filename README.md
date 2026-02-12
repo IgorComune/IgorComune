@@ -4,7 +4,9 @@ Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer** cur
 
 I enjoy breaking things to understand them deeply (skew, leakage, latency, drift...) and documenting the fixes. Open-source learner & builder.
 
-![Banner](https://drive.google.com/uc?export=view&id=1UgveaTS1esC2UE9hALXjpA_1GiXJbkYW)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1UgveaTS1esC2UE9hALXjpA_1GiXJbkYW" width="400"/>
+</p>
 
 ### Tech Stack & Tools
 - **Languages**: Python (core), SQL, Scala (Databricks), DAX, M Language  
