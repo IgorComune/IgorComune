@@ -5,7 +5,7 @@ Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer** cur
 I enjoy breaking things to understand them deeply (skew, leakage, latency, drift...) and documenting the fixes. Open-source learner & builder.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1UgveaTS1esC2UE9hALXjpA_1GiXJbkYW" width="400"/>
+  <img src="https://drive.google.com/uc?export=view&id=1UgveaTS1esC2UE9hALXjpA_1GiXJbkYW" width="300"/>
 </p>
 
 ### Tech Stack & Tools
@@ -115,8 +115,7 @@ Check out my full portfolio below — 115+ public repos!
 
 
 # 📬 Connect With Me
-
-Medium: [https://igorcomune.medium.com/](https://igorcomune.medium.com/)
-LinkedIn: [https://www.linkedin.com/in/igor-comune/](https://www.linkedin.com/in/igor-comune/)
+- Medium: [https://igorcomune.medium.com/](https://igorcomune.medium.com/)
+- LinkedIn: [https://www.linkedin.com/in/igor-comune/](https://www.linkedin.com/in/igor-comune/)
 
 Last updated 12/feb/2026
