@@ -1,4 +1,4 @@
-# Igor Comune – Data Scientist | Machine Learning Engineer | Data Engineer
+# Data Scientist | Machine Learning Engineer | Data Engineer
 
 Hello! I'm a passionate **Data Scientist** and **Machine Learning Engineer** currently pursuing a Master's in Machine Learning Engineering (Pos-Tech / FIAP). I build end-to-end ML systems, production pipelines, generative AI applications, and scalable data solutions — from experimentation and model validation to MLOps, feature stores, and deployment.
 
