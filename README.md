@@ -9,8 +9,8 @@ I enjoy breaking things to understand them deeply (skew, leakage, latency, drift
 </p>
 
 ### Tech Stack & Tools
-- **Languages**: Python (core), SQL, Scala (Databricks), DAX, M Language  
-- **ML/DL Frameworks**: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, NumPy, Pandas, Polars  
+- **Languages**: Python, C#, C++, SQL, Scala, DAX, M Language  
+- **ML/DL Frameworks**: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, NumPy, Pandas, Polars, Catboost... 
 - **MLOps & Data Engineering**: Feast (Feature Store), MLflow, Databricks (PySpark), PyDeequ, Airflow/Prefect/Dagster/N8N, Docker, CI/CD (GitHub Actions), ETL/ELT (Requests, Selenium, APIs), Data Governance/Auditing/Validation (Evidently, Great Expectations style)  
 - **LLMs & Generative AI**: LangChain, LlamaIndex, CrewAI (agents), OpenAI/Gemini/Claude, RAG pipelines, fine-tuning, vector DBs (MongoDB/Neo4j), prompt engineering, LLMOps (RAGAS, Langfuse)  
 - **Computer Vision & Advanced ML**: OpenCV, Reinforcement Learning (Gymnasium), Time Series (LSTM), CNNs/RNNs, Clustering/Classification/Regression  
